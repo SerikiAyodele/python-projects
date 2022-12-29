@@ -9,4 +9,7 @@
 # THINGS TO LEARN
 # ===============
 # -read and write data from redis cache
-# -api's and endpointsmetrics with grafana 
+# -api's and end pointsmetrics with grafana 
+
+
+i am teaching raska
